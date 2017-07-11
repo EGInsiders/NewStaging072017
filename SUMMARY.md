@@ -6,5 +6,5 @@
 ## Testing Scripts
 
 ## Resources
-* [Testing Checklist](checklist.md)
+* [Testing Checklist](Resources/checklist.md)
 
