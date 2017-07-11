@@ -138,7 +138,7 @@
             * Document
             * PDF
             * Word File
-            * Exccel
+            * Excel
             * Image
             * Web Link/URL
             * Video/URL
@@ -156,7 +156,7 @@
             * Document
             * PDF
             * Word File
-            * Exccel
+            * Excel
             * Image
             * Web Link/URL
             * Video/URL
