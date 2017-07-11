@@ -1,0 +1,28 @@
+---
+title: # Restricted status is removed when restricted member is promoted to lead coach
+layout: post
+author: eduguidepfl
+permalink: /#-restricted-status-is-removed-when-restricted-member-is-promoted-to-lead-coach/
+source-id: 1ZuRadBayad9n-Y_rIgRW0JFyIxGBE9X_6aSeL7a8jt8
+published: true
+---
+# Restricted status is removed when restricted member is promoted to lead coach
+
+# Promote Demo Team member to lead coach
+
+## Restricted member joins team as lead coach
+
+![image alt text]({{ site.url }}/public/gvnPioflEOkyhqGoWZLw_img_0.png)
+
+When I impersonate {Ashland Adams}
+
+And go to https://staging.eduguide.org/join/?invitationCode=4156234
+
+Then I am added to the {Avengers2} team
+
+And my restricted status is removed
+
+And I am a demo member
+
+![image alt text]({{ site.url }}/public/gvnPioflEOkyhqGoWZLw_img_1.png)
+
