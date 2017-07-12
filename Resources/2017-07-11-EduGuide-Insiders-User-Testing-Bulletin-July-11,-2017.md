@@ -6,9 +6,9 @@ permalink: /eduguide-insiders-user-testing-bulletin-july-11,-2017/
 source-id: 15BqqHawDO-2NvU8vn6fZ0UrIQODUqx-v5oLNMACYLUg
 published: true
 ---
-EduGuide Insiders
+# EduGuide Insiders
 
-User Testing Bulletin
+## User Testing Bulletin
 
 **July 11, 2017**
 
