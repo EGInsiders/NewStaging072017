@@ -19,9 +19,9 @@
 ## Inviting Coaches to the Team
 * [Invite Coach](Scripts/AdminCoachTriggersInvitation/Confirm Invitation.md)
 * [Send Invitation](Scripts/AdminCoachTriggersInvitation/Send Invitation.md)
-* [Recipient responds to invitation](Scripts/AdminCoachTriggersInvitation/UserRespondstoTeamInvitation)
-* [Decision Tree](Scripts/AdminCoachTriggersInvitation/DecisionTree)
-* [Register for Account](Scripts/AdminCoachTriggersInvitation/RegisterForanAccount)
+* [Recipient responds to invitation](Scripts/AdminCoachTriggersInvitation/UserRespondstoTeamInvitation.md)
+* [Decision Tree](Scripts/AdminCoachTriggersInvitation/DecisionTree.md)
+* [Register for Account](Scripts/AdminCoachTriggersInvitation/RegisterForanAccount.md)
 ## Personal Dashboards
 * [Posting on Personal Dashboard](Scripts/Dashboards/PersonalDashboards/001postingondashboard.md)
 * [Submit post with resource](Scripts/Dashboards/PersonalDashboards/Attachments/001postingwithattachment.md)
