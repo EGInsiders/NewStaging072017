@@ -1,28 +1,58 @@
 ---
-title: # Restricted status is removed when restricted member is promoted to lead coach
+title: # Reset Password
 layout: post
 author: eduguidepfl
-permalink: /#-restricted-status-is-removed-when-restricted-member-is-promoted-to-lead-coach/
-source-id: 1ZuRadBayad9n-Y_rIgRW0JFyIxGBE9X_6aSeL7a8jt8
+permalink: /#-reset-password/
+source-id: 190c2iGg3s8dtLZyewiH0V1YhFsxaboLByqQkxKGa2UI
 published: true
 ---
-# Restricted status is removed when restricted member is promoted to lead coach
+# Reset Password
 
-# Promote Demo Team member to lead coach
+## Trigger Password Reset
 
-## Restricted member joins team as lead coach
+Given that I am on the account login page
 
-![image alt text]({{ site.url }}/public/gvnPioflEOkyhqGoWZLw_img_0.png)
+When I click "Forgot Password"
 
-When I impersonate {Ashland Adams}
+Then I am taken to the password reset page
 
-And go to https://staging.eduguide.org/join/?invitationCode=4156234
+#/##
 
-Then I am added to the {Avengers2} team
+## Enter Account Email Address
 
-And my restricted status is removed
+Given that I am on the "Reset Your Password" page
 
-And I am a demo member
+When I enter my email address
 
-![image alt text]({{ site.url }}/public/gvnPioflEOkyhqGoWZLw_img_1.png)
+And click "Reset Password"
+
+Then the user is taken to a confirmation page, "An Email has been sent to {email address}"
+
+## Resetting Password from Email
+
+Given that the Password Reset notification arrived in my inbox
+
+When I click on the reset link
+
+Then I am taken to the Password Reset Page
+
+#/##
+
+## Changing password
+
+When I enter in a new password
+
+And a verified new password
+
+And click "change password"
+
+Then I am logged in
+
+And I am taken to my personal profile page
+
+#/##
+
+- - -
+
+[Google Doc](https://docs.google.com/document/d/190c2iGg3s8dtLZyewiH0V1YhFsxaboLByqQkxKGa2UI/edit?usp=sharing)
 
