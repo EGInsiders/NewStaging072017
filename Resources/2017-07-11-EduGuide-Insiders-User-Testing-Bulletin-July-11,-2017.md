@@ -24,3 +24,7 @@ Report any issues that you observe, but for the sake of the migration.
 
 If you have questions, contact me on Slack or send email to [jon@eduguide.org](mailto:jon@eduguide.org).
 
+- - - 
+
+[Google Doc](https://docs.google.com/document/d/15BqqHawDO-2NvU8vn6fZ0UrIQODUqx-v5oLNMACYLUg/edit?usp=sharing)
+
