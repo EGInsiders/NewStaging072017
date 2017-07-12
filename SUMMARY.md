@@ -14,6 +14,8 @@
 ## Testing Scripts
 * [Reset Passwords](Scripts/resetpassword.md)
 
+* [More Scripts](Scripts.md)
+
 
 
 
