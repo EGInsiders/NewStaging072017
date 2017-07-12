@@ -1,0 +1,42 @@
+---
+title: # Uploading image to personal dashboard
+layout: post
+author: eduguidepfl
+permalink: /#-uploading-image-to-personal-dashboard/
+source-id: 1pg_i-R_BaaaXDPBIOOCLzMQEeMUyHSq-QfdwW4FnwYM
+published: true
+---
+# Uploading image to personal dashboard
+
+# Posting on a Personal DashboardGiven that I am on my personal dashboardWhen I enter a message in the field labeled "share something"and click "Post"Then my message is posted on the dashboard.###
+
+# Posting on Personal Dashboard w/ Attachment
+
+Given that I am on my personal Dashboard
+
+When I enter a message
+
+And click the paperclip icon
+
+Then the Resource modal appears
+
+# Submit dashboard post with attached Resource
+
+Given that I've entered a message
+
+And clicked "Add Resource"
+
+And uploaded a resource
+
+And have been taken back to the dashboard
+
+When I click "Post"
+
+Then my message is displayed
+
+And the attached resource is shown as a thumbnail
+
+###
+
+[Google Doc](https://docs.google.com/document/d/1pg_i-R_BaaaXDPBIOOCLzMQEeMUyHSq-QfdwW4FnwYM/edit?usp=sharing)
+
