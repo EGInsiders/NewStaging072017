@@ -6,7 +6,7 @@
 ## Announcements
 
 ## Resources
-* [Testing Checklist](Resources/checklist.md)
+* [Testing Checklist](resources/)
 
 ## Testing Scripts
 * [Reset Password](Scripts/2017-07-11-)
