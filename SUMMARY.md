@@ -7,9 +7,12 @@
 
 ## Resources
 * [Testing Checklist](Scripts/Testingchecklist.md)
+* [Joining your team](Scripts/Coaches-Getting-Started---Joining-Your-Team.md)
+* [Requesting an IT Test](Scripts/Requesting-an-IT-Test.md)
 
 ## Testing Scripts
 * [Reset Passwords](Scripts/resetpassword.md)
+
 
 
 
