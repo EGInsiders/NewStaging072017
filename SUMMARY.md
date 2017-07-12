@@ -1,4 +1,4 @@
-# Contents
+[](Scripts/TeamCoachInvite.md)# Contents
 
 * [Cover](README.md)
 * [Introduction](Resources/2017-07-11-EduGuide-Insiders-User-Testing-Bulletin-July-11,-2017.md)
@@ -13,6 +13,7 @@
 
 ## Testing Scripts
 * [Reset Passwords](Scripts/resetpassword.md)
+* [Coaches Invited](Scripts/TeamCoachInvite.md)
 
 * [More Scripts](Scripts.md)
 
