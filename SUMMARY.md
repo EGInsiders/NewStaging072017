@@ -17,8 +17,8 @@
 * [More Scripts](Scripts.md)
 
 ## Inviting Coaches to the Team
-* [Invite Coach](Scripts/AdminCoachTriggersInvitation/Confirm Invitation)
-* [Send Invitation](Scripts/AdminCoachTriggersInvitation/Send Invitation)
+* [Invite Coach](Scripts/AdminCoachTriggersInvitation/Confirm Invitation.md)
+* [Send Invitation](Scripts/AdminCoachTriggersInvitation/Send Invitation.md)
 * [Recipient responds to invitation](Scripts/AdminCoachTriggersInvitation/UserRespondstoTeamInvitation)
 * [Decision Tree](Scripts/AdminCoachTriggersInvitation/DecisionTree)
 * [Register for Account](Scripts/AdminCoachTriggersInvitation/RegisterForanAccount)
