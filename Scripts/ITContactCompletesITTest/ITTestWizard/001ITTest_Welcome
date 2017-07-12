@@ -1,0 +1,7 @@
+# IT Contact Responds To Welcome screen
+
+Given that I am on the Welcome Page in the IT Test Wizard
+When I click on "Get Started"
+Then I am taken to the "Network" page
+
+###

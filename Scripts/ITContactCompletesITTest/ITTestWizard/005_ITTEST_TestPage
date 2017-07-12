@@ -1,0 +1,6 @@
+## IT Contact views the Test Page
+
+When I click "Start Path"
+Then I am taken to the IT Testing Path
+
+###

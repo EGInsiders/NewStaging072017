@@ -1,0 +1,11 @@
+## IT Contact views Compatibility page
+
+When I view the compatibility page
+Then a checkmark or an x appears next to "Javascript Supported"
+And "Cookies supported"
+And "AJAX Supported"
+And "HINCLUDE Supported"
+And "All Tests have completed successfully"
+And I am taken to the "Test" page when I click "Continue"
+
+###

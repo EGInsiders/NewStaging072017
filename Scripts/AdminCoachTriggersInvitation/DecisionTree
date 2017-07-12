@@ -1,0 +1,7 @@
+### Decision Tree
+	Given that I am viewing the Decision Tree
+	And, the page says, "In order to process the invitation, you must first create an account or log into an existing account."
+	And the page asks, "Do you have an account?"
+	When I click, "No, Join"
+		Then I am taken to the registration form
+		###		
