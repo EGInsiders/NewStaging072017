@@ -9,6 +9,10 @@
 * [Testing Checklist](Scripts/Testingchecklist.md)
 * [Joining your team](Scripts/Coaches-Getting-Started---Joining-Your-Team.md)
 * [Requesting an IT Test](Scripts/Requesting-an-IT-Test.md)
+
+
+## Testing Scripts
+* [Reset Passwords](Scripts/resetpassword.md)
 ### Inviting Coaches to the Team
 * [Invite Coach](Scripts/AdminCoachTriggersInvitation/Confirm Invitation)
 * [Send Invitation](Scripts/AdminCoachTriggersInvitation/Send Invitation)
@@ -21,8 +25,6 @@
 * [Attach Resource](Scripts/Dashboards/PersonalDashboards/Attachments/002_UploadResource.md)
 * [Submit post with attachment](Scripts/Dashboards/PersonalDashboards/Attachments/003_Submitpostwithattachment.md)
 
-## Testing Scripts
-* [Reset Passwords](Scripts/resetpassword.md)
 
 
 
