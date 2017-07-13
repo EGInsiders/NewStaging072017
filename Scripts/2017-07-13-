@@ -1,0 +1,52 @@
+---
+title: # Synchronizing addition of text attachments
+layout: post
+author: eduguidepfl
+permalink: /#-synchronizing-addition-of-text-attachments/
+source-id: 1NZJiL7q6t2Hy3J_WN4oL8aWt1k2e-Se6iwe7hndYl6Q
+published: true
+---
+# Synchronizing addition of text attachments
+
+## Select Core learning Path
+
+When I click {Core Learning}
+
+Then I'm taken to the manage dashboard for the {Core Learning} Path
+
+#/##
+
+## Filter for Secondary Student
+
+When I select {Secondary Student} from the User Type drop down field
+
+Then the page changes to show only students' activities
+
+## Select {Can you Feel it?}
+
+When I click on "Manage" next to “Can You Feel it?”
+
+Then I am taken to the Manage dashboard for {Can you feel it?}
+
+## Add Additional Content to Step
+
+When I click Edit next to a step
+
+Then I am taken to the edit page for that step
+
+## Add Additional Content to the step
+
+When I change the step type
+
+And add additional text to the additional text field
+
+And click "Sync most changes to child versions"
+
+And click "Save"
+
+Then I am taken to the activity dashboard
+
+And the system responds, "Path step has been saved. Changes have been applied to all child versions"
+
+And the child step displays the same additional content when viewed by a user assigned to that child version of the activity
+
