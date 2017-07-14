@@ -1,0 +1,44 @@
+---
+title: # Reply to Team Dashboard Post via email
+layout: post
+author: eduguidepfl
+permalink: /#-reply-to-team-dashboard-post-via-email/
+source-id: 1CHXGF6IvkQESvtdN2es35wb0oW3XQ_si-gwjcSeNKeg
+published: true
+---
+# Reply to Team Dashboard Post via email
+
+## Post message on Team Dashboard
+
+Given that I am on a team dashboard
+
+When I enter a mesage into the post field
+
+And click "Post"
+
+Then my message is saved
+
+And a notification is triggered
+
+## Team Member responds to dashboard post via email
+
+Given that a dashboard post notification has arrived in my inbox
+
+When I click "Reply"
+
+Then a new email opens up in a window
+
+### Send response
+
+When I click "Send"
+
+Then my email is sent
+
+## Message is displayed on Team dashboard
+
+Given that I have responded to a dashboard post via email
+
+When I view the team dashboard
+
+Then the message that I submitted via email is displayed as a comment under the original post
+
