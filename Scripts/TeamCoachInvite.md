@@ -13,7 +13,7 @@ Story	Step	Expected Results	D
 		Then the modal clears	
 		And the system responds, "Your coach invitations have been processed and necessary emails sent out."	
 		###	
-### User Responds to team invitation			[https://assets.ford.eduguide.org/team/627/invitation/5b24688239c1b720714040a82afae524](https://assets.ford.eduguide.org/team/627/invitation/5b24688239c1b720714040a82afae524)
+### User Responds to team invitation			
 	Given that the invitation arrives in my inbox		
 	When I click on the link "Join [Team name] Now"		
 		Then I am taken to the site	
